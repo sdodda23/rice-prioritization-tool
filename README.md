@@ -21,9 +21,7 @@ The app makes it easy to add and sort features by their calculated RICE scores, 
   - **Effort:** Estimated effort in person-months (1–10 scale)
 - Calculates RICE score using the formula:
   
-  \[
-  \text{RICE Score} = \frac{\text{Reach} \times \text{Impact} \times \text{Confidence}}{\text{Effort}}
-  \]
+RICE Score = (Reach × Impact × Confidence) ÷ Effort
 
 - Automatically sorts features by descending RICE score
 - Delete features to keep the list up to date
@@ -65,11 +63,7 @@ This project was a small but meaningful step in combining what I’ve learned ab
 
 ### Demo video showing feature input and prioritization:
 
-<video width="600" controls>
-  <source src="./Rice%20Score%20Calculator%20Demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
-
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1tCyx6OoN729cHM-tBHm2F_kWnFBxljTX/view?usp=sharing)
 ---
 
 ##  How to Use
